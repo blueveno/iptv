@@ -12,7 +12,7 @@ http://192.168.1.1:1234/udp/239.255.12.209:1234
 #EXTINF:-1 group-title="Lietuviški" tvg-id="btv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/btv.png",BTV
 http://192.168.1.1:1234/udp/233.136.41.20:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tv3.png",TV3 HD
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tv3-hd.png",TV3 HD
 http://192.168.1.1:1234/udp/239.255.12.13:1234
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv3" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tv3.png",TV3
