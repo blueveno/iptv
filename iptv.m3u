@@ -12,7 +12,7 @@ http://192.168.1.1:1234/udp/239.255.12.209:1234
 #EXTINF:-1 group-title="Lietuviški" tvg-id="btv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/btv.png",BTV
 http://192.168.1.1:1234/udp/233.136.41.20:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tv3-hd.png",TV3 HD
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tv3.png",TV3 HD
 http://192.168.1.1:1234/udp/239.255.12.13:1234
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv3" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tv3.png",TV3
@@ -500,21 +500,6 @@ http://192.168.1.1:1234/udp/239.255.14.22:1234
 
 #EXTINF:-1 group-title="Kiti" tvg-id="tv-polonia" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tvp-polonia.png",TV Polonia
 http://192.168.1.1:1234/udp/233.136.41.81:1234
-
-#EXTINF:-1 group-title="Suaugusiems" tvg-id="hustler-hd" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/hustler-hd.png",Hustler HD
-http://46.166.148.163:8000/hc/123456/52
-
-#EXTINF:-1 group-title="Sportas" tvg-id="sky-sports-f1" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/sky-sports-f1.png",Sky Sports F1
-http://46.166.148.163:8000/hc/123456/237
-
-#EXTINF:-1 group-title="Sportas" tvg-id="nba-tv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/nba-tv.png",NBA TV
-http://46.166.148.163:8000/hc/123456/259
-
-#EXTINF:-1 group-title="Sportas" tvg-id="bein-sports1" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/bein-sports1.png",BeIn Sports 1 HD
-http://46.166.148.163:8000/hc/123456/29617
-
-#EXTINF:-1 group-title="Sportas" tvg-id="wwe-tv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/wwe-tv.png",WWE HD
-http://46.166.148.163:8000/hc/123456/218
 
 #EXTINF:-1 group-title="Pramoginiai" tvg-id="hbo" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/hbo.png",HBO HD
 http://fonte.iptvmaishd.com:25461/7208/7208/188071
