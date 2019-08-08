@@ -3,7 +3,9 @@ Penki (Skynet) IPTV su EPG gidu.
 
 
 ## Kaip pradėti naudotis?
-Playlist failas: [iptv.m3u](https://raw.githubusercontent.com/augustas2/iptv/master/iptv.m3u).
+Playlist failas: [iptv-plain.m3u](https://raw.githubusercontent.com/augustas2/iptv/master/iptv-plain.m3u).
+
+Playlist failas su UDP proxy: [iptv.m3u](https://raw.githubusercontent.com/augustas2/iptv/master/iptv.m3u).
 
 EPG gidas: [epg.xml](https://raw.githubusercontent.com/augustas2/iptv/master/epg.xml).
 
