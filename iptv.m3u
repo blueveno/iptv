@@ -500,6 +500,3 @@ http://192.168.1.1:1234/udp/239.255.14.22:1234
 
 #EXTINF:-1 group-title="Kiti" tvg-id="tv-polonia" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tvp-polonia.png",TV Polonia
 http://192.168.1.1:1234/udp/233.136.41.81:1234
-
-#EXTINF:-1 group-title="Pramoginiai" tvg-id="hbo" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/hbo.png",HBO HD
-http://fonte.iptvmaishd.com:25461/7208/7208/188071
