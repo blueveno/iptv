@@ -17,4 +17,4 @@ Tiesiog nukopijuokite playlist'o bei EPG gido nuorodas ir įdėkite į savo IPTV
 ## Kas yra EPG?
 Elektroninis programų gidas (EPG) tai programa TV kanalams.
 
-EPG yra generuojamas 3 dienoms į priekį, kasdien `04:00` ryto.
+EPG yra generuojamas 3 dienoms į priekį, kas `12` valandų.
