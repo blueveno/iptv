@@ -399,7 +399,7 @@ udp://@233.136.41.83:1234
 #EXTINF:-1 group-title="Informaciniai" tvg-id="russia-today" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/russia-today.png",Russia Today
 udp://@233.136.41.98:1234
 
-#EXTINF:-1 group-title="Rusiški" tvg-id="tnt-4" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tnt-4.png",THT4
+#EXTINF:-1 group-title="Rusiški" tvg-id="tht4" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tnt-4.png",THT4
 udp://@239.255.12.67:1234
 
 #EXTINF:-1 group-title="Rusiški" tvg-id="rbk" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/rbk.png",РБК
