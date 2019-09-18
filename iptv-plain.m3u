@@ -84,6 +84,9 @@ udp://@233.136.41.75:1234
 #EXTINF:-1 group-title="Pramoginiai" tvg-id="sony-turbo" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/sony-turbo.png",Sony Turbo Baltic HD
 udp://@233.132.130.112:1234
 
+#EXTINF:-1 group-title="Filmai" tvg-id="filmzone" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/filmzone.png",Filmzone
+http://192.168.1.1:1234/udp/233.136.41.122:1234
+
 #EXTINF:-1 group-title="Filmai" tvg-id="filmzone+" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/filmzone+.png",Filmzone+ HD
 udp://@233.136.41.161:1234
 
