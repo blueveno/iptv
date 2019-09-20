@@ -594,7 +594,7 @@ http://radijas.tgfm.lt:8000
 #EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/classic-rock-fm.png",Classic Rock FM
 http://5.20.223.18:80/crf128.mp3
 
-#EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/znad-wilii.png",LRT Znad Wilii
+#EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/znad-wilii.png",Znad Wilii
 http://play.zw.lt:8000/zw128
 
 #EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/vaiku-radijas.png",Vaikų Radijas
