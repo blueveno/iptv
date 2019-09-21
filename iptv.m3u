@@ -549,13 +549,13 @@ http://radijas2.vu.lt:8000/startfm.ogg
 #EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/ruskoje-radio.png",Ruskoje Radio
 http://5.20.223.18:80/rrb128.mp3
 
-#EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/kelyje-vilnius.png",Kelyje (Vilnius)
+#EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/kelyje.png",Kelyje (Vilnius)
 http://82.135.234.195:8000/kelyje_vilnius.mp3
 
-#EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/kelyje-kaunas.png",Kelyje (Kaunas)
+#EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/kelyje.png",Kelyje (Kaunas)
 http://82.135.234.195:8000/kelyje_kaunas.mp3
 
-#EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/kelyje-klaipeda.png",Kelyje (Klaipėda)
+#EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/kelyje.png",Kelyje (Klaipėda)
 http://82.135.234.195:8000/kelyje_klaipeda.mp3
 
 #EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/laluna.png",Laluna
