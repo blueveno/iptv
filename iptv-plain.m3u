@@ -579,7 +579,7 @@ http://213.197.178.50:8000/A2stereo
 #EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/pukas.png",Pūkas
 http://82.135.234.195:8000/pukas.mp3
 
-#EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/pukas2.png",Pūkas 2
+#EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/pukas.png",Pūkas 2
 http://82.135.234.195:8000/pukas2.mp3
 
 #EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/fm99.png",FM99
