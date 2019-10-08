@@ -339,7 +339,7 @@ http://192.168.1.1:1234/udp/233.136.41.118:1234
 #EXTINF:-1 group-title="Vokiški" tvg-id="pro-7" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/pro-7.png",PRO 7
 http://192.168.1.1:1234/udp/233.136.41.69:1234
 
-#EXTINF:-1 group-title="Vokiški" tvg-id="deutsche-welle" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/deutsche-welle.png",Deutsche Welle HD
+#EXTINF:-1 group-title="Vokiški" tvg-id="deutche-welle" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/deutsche-welle.png",Deutsche Welle HD
 http://192.168.1.1:1234/udp/233.99.62.16:1234
 
 #EXTINF:-1 group-title="Vokiški" tvg-id="sat-1" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/sat-1.png",SAT 1
