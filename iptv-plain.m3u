@@ -1,4 +1,4 @@
-TM3U url-tvg="https://raw.githubusercontent.com/augustas2/iptv/master/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/augustas2/iptv/master/epg.xml"
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lrt" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/lrt.png",LRT Televizija HD
 udp://@233.136.41.158:1234
