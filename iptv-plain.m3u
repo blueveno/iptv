@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/augustas2/iptv/master/epg.xml"
+TM3U url-tvg="https://raw.githubusercontent.com/augustas2/iptv/master/epg.xml"
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lrt" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/lrt.png",LRT Televizija HD
 udp://@233.136.41.158:1234
@@ -13,7 +13,7 @@ udp://@239.255.12.209:1234
 udp://@233.136.41.20:1234
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv3" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tv3.png",TV3 HD
-udp://@239.255.12.13:1234
+udp://@233.99.62.13:1234
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv3" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tv3.png",TV3
 udp://@239.255.13.4:1234
@@ -85,7 +85,7 @@ udp://@233.136.41.75:1234
 udp://@233.132.130.112:1234
 
 #EXTINF:-1 group-title="Filmai" tvg-id="filmzone" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/filmzone.png",Filmzone
-http://192.168.1.1:1234/udp/233.136.41.122:1234
+udp://@233.136.41.122:1234
 
 #EXTINF:-1 group-title="Filmai" tvg-id="filmzone+" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/filmzone+.png",Filmzone+ HD
 udp://@233.136.41.161:1234
@@ -97,13 +97,13 @@ udp://@239.2.4.204:1234
 udp://@233.136.41.171:1234
 
 #EXTINF:-1 group-title="Sportas" tvg-id="tvplay-sports" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tvplay-sports.png",TVPlay Sports HD
-udp://@239.255.12.10:1234
+udp://@233.99.62.8:1234
 
 #EXTINF:-1 group-title="Sportas" tvg-id="tvplay-sports" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tvplay-sports.png",TVPlay Sports
 udp://@233.136.41.36:1234
 
 #EXTINF:-1 group-title="Sportas" tvg-id="tvplay-sports+" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tvplay-sports-plus.png",TVPlay Sports+ HD
-udp://@233.132.130.11:1234
+udp://@233.99.62.9:1234
 
 #EXTINF:-1 group-title="Sportas" tvg-id="sport1" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/sport1.png",SPORT1 HD
 udp://@233.136.41.163:1234
@@ -339,6 +339,9 @@ udp://@233.136.41.118:1234
 #EXTINF:-1 group-title="Vokiški" tvg-id="pro-7" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/pro-7.png",PRO 7
 udp://@233.136.41.69:1234
 
+#EXTINF:-1 group-title="Vokiški" tvg-id="deutsche-welle" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/deutsche-welle.png",Deutsche Welle HD
+udp://@233.99.62.16:1234
+
 #EXTINF:-1 group-title="Vokiški" tvg-id="deutsche-welle" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/deutsche-welle.png",Deutsche Welle
 udp://@239.255.12.46:1234
 
@@ -353,6 +356,33 @@ udp://@233.136.41.82:1234
 
 #EXTINF:-1 group-title="Kiti" tvg-id="tve-internacional" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tve-internacional.png",TVE Internacional
 udp://@233.136.41.84:1234
+
+#EXTINF:-1 group-title="Dokumentika" tvg-id="outdoor-channel" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/outdoor-channel.png",Outdoor Channel
+udp://@233.99.62.12:1234
+
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="ru-tv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/ru-tv.png",RU.TV
+udp://@233.99.62.0:1234
+
+#EXTINF:-1 group-title="Rusiški" tvg-id="belsat-tv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/belsat-tv.png",Белсат TV
+udp://@233.99.62.3:1234
+
+#EXTINF:-1 group-title="Filmai" tvg-id="bollywood" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/bollywood.png",Bollywood HD
+udp://@233.99.62.2:1234
+
+#EXTINF:-1 group-title="Rusiški" tvg-id="5-kanal" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/5-kanal.png",5 канал
+udp://@233.99.62.1:1234
+
+#EXTINF:-1 group-title="Rusiški" tvg-id="8-kanal" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/8-kanal.png",8 канал
+udp://@233.99.62.14:1234
+
+#EXTINF:-1 group-title="Suaugusiems" tvg-id="playboy" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/playboy.png",Playboy HD
+udp://@233.99.62.5:1234
+
+#EXTINF:-1 group-title="Suaugusiems" tvg-id="barely-legal" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/barely-legal.png",Barely Legal
+udp://@233.99.62.7:1234
+
+#EXTINF:-1 group-title="Suaugusiems" tvg-id="erox" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/erox.png",EroX
+udp://@233.99.62.15:1234
 
 #EXTINF:-1 group-title="Filmai" tvg-id="tv1000-russkoe-kino" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tv1000-russkoe-kino.png",TV1000 Русское кино
 udp://@233.136.41.40:1234
@@ -380,6 +410,9 @@ udp://@233.136.41.26:1234
 
 #EXTINF:-1 group-title="Rusiški" tvg-id="pbk" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/pbk.png",PBK Litva
 udp://@233.136.41.25:1234
+
+#EXTINF:-1 group-title="Rusiški" tvg-id="belarus-24" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/belarus-24.png",Belarus 24 HD
+udp://@233.99.62.10:1234
 
 #EXTINF:-1 group-title="Rusiški" tvg-id="belarus-24" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/belarus-24.png",Belarus 24
 udp://@233.136.41.47:1234
@@ -409,7 +442,7 @@ udp://@239.255.12.67:1234
 udp://@233.136.41.99:1234
 
 #EXTINF:-1 group-title="Rusiški" tvg-id="ctc" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/ctc.png",СТС Балтия
-udp://@233.136.41.121:1234
+udp://@233.99.62.11:1234
 
 #EXTINF:-1 group-title="Rusiški" tvg-id="rossiya-24" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/rossiya-24.png",Россия 24
 udp://@233.136.41.128:1234
@@ -498,7 +531,10 @@ udp://@233.10.10.30:5000
 #EXTINF:-1 group-title="Kiti" tvg-id="tv-xxi" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tv-xxi.png",TV XXI
 udp://@233.136.41.164:1234
 
-#EXTINF:-1 group-title="Kiti" tvg-id="tv-polonia" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tvp-polonia.png",TV Polonia
+#EXTINF:-1 group-title="Lenkiški" tvg-id="tvp-info" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tvp-info.png",TVP Info HD
+udp://@233.99.62.4:1234
+
+#EXTINF:-1 group-title="Lenkiški" tvg-id="tv-polonia" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tvp-polonia.png",TV Polonia
 udp://@233.136.41.81:1234
 
 #EXTINF:-1 group-title="Muzikiniai",WORLD of MUSIC
