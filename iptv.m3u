@@ -118,10 +118,10 @@ http://192.168.1.1:1234/udp/239.255.12.33:1234
 http://192.168.1.1:1234/udp/233.136.41.32:1234
 
 #EXTINF:-1 group-title="Muzikiniai" tvg-id="vh1-classic" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/vh1-classic.png",VH1 Classic
-http://192.168.1.1:1234/udp/239.255.12.20:1234
+http://192.168.1.1:1234/udp/233.136.41.227:1234
 
 #EXTINF:-1 group-title="Muzikiniai" tvg-id="mtv-live" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/mtv-live-hd.png",MTV Live HD
-http://192.168.1.1:1234/udp/239.255.12.3:1234
+http://192.168.1.1:1234/udp/233.136.41.228:1234
 
 #EXTINF:-1 group-title="Muzikiniai" tvg-id="mtv-europe" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/mtv-europe.png",MTV Europe
 http://192.168.1.1:1234/udp/233.136.41.30:1234
@@ -130,10 +130,10 @@ http://192.168.1.1:1234/udp/233.136.41.30:1234
 http://192.168.1.1:1234/udp/233.136.41.142:1234
 
 #EXTINF:-1 group-title="Muzikiniai" tvg-id="mtv-dance" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/mtv-dance.png",MTV Dance
-http://192.168.1.1:1234/udp/239.255.12.18:1234
+http://192.168.1.1:1234/udp/233.136.41.226:1234
 
 #EXTINF:-1 group-title="Muzikiniai" tvg-id="mtv-rocks" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/mtv-rocks.png",MTV Rocks
-http://192.168.1.1:1234/udp/239.255.12.19:1234
+http://192.168.1.1:1234/udp/233.136.41.225:1234
 
 #EXTINF:-1 group-title="Muzikiniai" tvg-id="mcm-top" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/mcm-top.png",MCM TOP HD
 http://192.168.1.1:1234/udp/239.255.12.59:1234
@@ -321,8 +321,8 @@ http://192.168.1.1:1234/udp/233.136.41.160:1234
 #EXTINF:-1 group-title="Pramoginiai" tvg-id="fashion-one" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/fashion-one.png",Fashion One
 http://192.168.1.1:1234/udp/233.136.41.131:1234
 
-#EXTINF:-1 group-title="Kiti" tvg-id="france-24" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/france-24.png",France 24 UK
-http://192.168.1.1:1234/udp/239.255.12.63:1234
+#EXTINF:-1 group-title="Kiti" tvg-id="france-24" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/france-24.png",France 24 HD
+http://192.168.1.1:1234/udp/233.136.41.229:1234
 
 #EXTINF:-1 group-title="Muzikiniai" tvg-id="stingray-iconcerts" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/stingray-iconcerts.png",Stingray iConcerts HD
 http://192.168.1.1:1234/udp/233.136.41.59:1234
@@ -366,7 +366,7 @@ http://192.168.1.1:1234/udp/233.136.41.82:1234
 #EXTINF:-1 group-title="Kiti" tvg-id="tve-internacional" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tve-internacional.png",TVE Internacional
 http://192.168.1.1:1234/udp/233.136.41.84:1234
 
-#EXTINF:-1 group-title="Dokumentika" tvg-id="outdoor-channel" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/outdoor-channel.png",Outdoor Channel
+#EXTINF:-1 group-title="Dokumentika" tvg-id="outdoor-channel" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/outdoor-channel.png",Outdoor Channel HD
 http://192.168.1.1:1234/udp/233.99.62.12:1234
 
 #EXTINF:-1 group-title="Muzikiniai" tvg-id="ru-tv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/ru-tv.png",RU.TV
