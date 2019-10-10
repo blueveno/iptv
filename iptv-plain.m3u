@@ -25,13 +25,13 @@ udp://@239.255.12.206:1234
 udp://@239.255.13.28:1234
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv6" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tv6.png",TV6 HD
-udp://@239.255.12.212:1234
+udp://@239.255.15.112:1234
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv6" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tv6.png",TV6
 udp://@233.136.41.175:1234
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv1" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tv1.png",TV1 HD
-udp://@239.255.12.210:1234
+udp://@233.132.130.12:1234
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv1" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tv1.png",TV1
 udp://@239.255.13.9:1234
@@ -40,7 +40,7 @@ udp://@239.255.13.9:1234
 udp://@239.255.13.15:1234
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lietuvos-rytas-tv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/lietuvos-rytas-tv.png",Lietuvos Rytas TV HD
-udp://@239.255.12.8:1234
+udp://@239.255.15.67:1234
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lietuvos-rytas-tv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/lietuvos-rytas-tv.png",Lietuvos Rytas TV
 udp://@239.255.13.7:1234
@@ -94,7 +94,7 @@ udp://@233.136.41.161:1234
 udp://@233.136.41.231:1234
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-plius" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/lrt-plius.png",LRT Plius HD
-udp://@239.2.4.204:1234
+udp://@239.255.15.65:1234
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-plius" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/lrt-plius.png",LRT Plius
 udp://@233.136.41.171:1234
