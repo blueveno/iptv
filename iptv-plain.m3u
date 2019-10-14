@@ -408,7 +408,7 @@ udp://@233.99.62.7:1234
 #EXTINF:-1 group-title="Suaugusiems" tvg-id="erox" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/erox.png",EroX
 udp://@233.99.62.15:1234
 
-#EXTINF:-1 group-title="Regioniniai" tvg-id="pukas-tv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/pukas-tv.png",Pūkas TV
+#EXTINF:-1 group-title="Regioniniai" tvg-id="pukas-tv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/pukas.png",Pūkas TV
 udp://@233.136.41.212:1234
 
 #EXTINF:-1 group-title="Informaciniai" tvg-id="al-jazeera" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/al-jazeera.png",Al Jazeera
