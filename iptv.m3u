@@ -111,9 +111,6 @@ http://192.168.1.1:1234/udp/239.255.15.128:1234
 #EXTINF:-1 group-title="Sportas" tvg-id="sport1" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/sport1.png",SPORT1 HD
 http://192.168.1.1:1234/udp/239.255.15.107:1234
 
-#EXTINF:-1 group-title="Sportas" tvg-id="sport1" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/sport1.png",SPORT1
-http://192.168.1.1:1234/udp/239.255.12.33:1234
-
 #EXTINF:-1 group-title="Muzikiniai" tvg-id="vh1-european" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/vh1-euro.png",VH1 Europe
 http://192.168.1.1:1234/udp/239.255.15.129:1234
 
@@ -136,7 +133,7 @@ http://192.168.1.1:1234/udp/239.255.15.72:1234
 http://192.168.1.1:1234/udp/239.255.15.75:1234
 
 #EXTINF:-1 group-title="Muzikiniai" tvg-id="mcm-top" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/mcm-top.png",MCM TOP HD
-http://192.168.1.1:1234/udp/239.255.12.59:1234
+http://192.168.1.1:1234/udp/233.136.41.159:1234
 
 #EXTINF:-1 group-title="Muzikiniai" tvg-id="mcm-top" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/mcm-top.png",MCM TOP
 http://192.168.1.1:1234/udp/239.255.15.69:1234
@@ -255,9 +252,6 @@ http://192.168.1.1:1234/udp/239.255.15.79:1234
 #EXTINF:-1 group-title="Pramoginiai" tvg-id="travel-channel" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/travel-channel.png",Travel Channel HD
 http://192.168.1.1:1234/udp/239.255.15.111:1234
 
-#EXTINF:-1 group-title="Pramoginiai" tvg-id="travel-channel" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/travel-channel.png",Travel Channel
-http://192.168.1.1:1234/udp/233.136.41.44:1234
-
 #EXTINF:-1 group-title="Regioniniai" tvg-id="gntv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/gntv.png",GNTV HD
 http://192.168.1.1:1234/udp/233.136.41.148:1234
 
@@ -327,11 +321,11 @@ http://192.168.1.1:1234/udp/233.136.41.160:1234
 #EXTINF:-1 group-title="Pramoginiai" tvg-id="fashion-one" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/fashion-one.png",Fashion One
 http://192.168.1.1:1234/udp/233.136.41.131:1234
 
-#EXTINF:-1 group-title="Kiti" tvg-id="france-24" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/france-24.png",France 24
-http://192.168.1.1:1234/udp/239.255.15.46:1234
-
 #EXTINF:-1 group-title="Kiti" tvg-id="france-24" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/france-24.png",France 24 HD
 http://192.168.1.1:1234/udp/233.136.41.229:1234
+
+#EXTINF:-1 group-title="Kiti" tvg-id="france-24" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/france-24.png",France 24
+http://192.168.1.1:1234/udp/239.255.15.46:1234
 
 #EXTINF:-1 group-title="Muzikiniai" tvg-id="stingray-iconcerts" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/stingray-iconcerts.png",Stingray iConcerts HD
 http://192.168.1.1:1234/udp/233.136.41.59:1234
@@ -363,11 +357,11 @@ http://192.168.1.1:1234/udp/239.255.15.102:1234
 #EXTINF:-1 group-title="Vokiški" tvg-id="pro-7" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/pro-7.png",PRO 7
 http://192.168.1.1:1234/udp/239.255.15.92:1234
 
-#EXTINF:-1 group-title="Vokiški" tvg-id="deutche-welle" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/deutsche-welle.png",Deutsche Welle
-http://192.168.1.1:1234/udp/239.255.15.30:1234
-
 #EXTINF:-1 group-title="Vokiški" tvg-id="deutche-welle" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/deutsche-welle.png",Deutsche Welle HD
 http://192.168.1.1:1234/udp/233.99.62.16:1234
+
+#EXTINF:-1 group-title="Vokiški" tvg-id="deutche-welle" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/deutsche-welle.png",Deutsche Welle
+http://192.168.1.1:1234/udp/239.255.15.30:1234
 
 #EXTINF:-1 group-title="Vokiški" tvg-id="sat-1" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/sat-1.png",SAT 1
 http://192.168.1.1:1234/udp/239.255.15.101:1234
@@ -508,7 +502,7 @@ http://192.168.1.1:1234/udp/239.255.15.97:1234
 http://192.168.1.1:1234/udp/233.136.41.139:1234
 
 #EXTINF:-1 group-title="Rusiški" tvg-id="tht" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tht.png",THT International
-http://192.168.1.1:1234/udp/239.255.15.136:1234
+http://192.168.1.1:1234/udp/239.255.15.137:1234
 
 #EXTINF:-1 group-title="Rusiški" tvg-id="zhara" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/zhara.png",Жара TV
 http://192.168.1.1:1234/udp/233.136.41.188:1234
