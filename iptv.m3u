@@ -543,9 +543,6 @@ http://192.168.1.1:1234/udp/239.255.15.61:1234
 #EXTINF:-1 group-title="Vaikams" tvg-id="detskij-mir" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/detskij-mir.png",Детский мир + Телеклуб
 http://192.168.1.1:1234/udp/239.255.15.16:1234
 
-#EXTINF:-1 group-title="Rusiški" tvg-id="novij-mir" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/novij-mir.png",Новый Мир
-http://192.168.1.1:1234/udp/239.255.12.65:1234
-
 #EXTINF:-1 group-title="Rusiški" tvg-id="ntv-serial" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/ntv-serial.png",НТВ Сериал
 http://192.168.1.1:1234/udp/239.255.15.85:1234
 
@@ -590,9 +587,6 @@ http://192.168.1.1:1234/udp/239.255.15.125:1234
 
 #EXTINF:-1 group-title="Lenkiški" tvg-id="tv-polonia" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/tvp-polonia.png",TV Polonia
 http://192.168.1.1:1234/udp/233.136.41.81:1234
-
-#EXTINF:-1 group-title="Muzikiniai",WORLD of MUSIC
-http://192.168.1.1:1234/udp/239.255.14.22:1234
 
 #EXTINF:-1 group-title="Radijas" radio="true" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/radiocentras.png",Radiocentras
 http://84.46.205.13:80/rc128.mp3
